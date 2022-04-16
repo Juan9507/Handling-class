@@ -10,7 +10,7 @@ public class Fruit {
     //Atributos de la clase fruta
     
     /**
-     * Atributo publico para el nomrbe de la fruta
+     * Atributo publico para el nombre de la fruta
      */
     public String name;
     
